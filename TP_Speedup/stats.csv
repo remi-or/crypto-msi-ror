@@ -1,0 +1,8 @@
+Version,Temps d’éxécution,Gain
+Originale,4571,1
+-03 -march=native,4284,1.06699346405229
+Pas de copy,2259,2.02346170872067
+Concaténation de tout le code dans une fonction,2343,1.95091762697397
+Fusion des deux boucles,1268,3.60488958990536
+Passage de deux indices à un,346,13.2109826589595
+Retirer les prints,250,18.284
